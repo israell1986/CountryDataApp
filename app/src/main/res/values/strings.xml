@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">World</string>
+    <string name="capital_city">בירת המדינה היא:</string>
+    <string name="capital_currencies_single">המטבע במדינה היא:</string>
+    <string name="capital_currencies_multiple">המטבעות במדינה הן:</string>
+    <string name="no_borders_msg">הידד, אתה לבד!\nאין מדינות הגובלות ב%s</string>
+    <string name="country_data_title">מידע אודות %s:</string>
+    <string name="countries_screen_close">חזור לרשימת האזורים</string>
+    <string name="borders_list_title">המדינות הגובלות ב%s הן:</string>
+    <string name="country_data_close">חזור לרשימת המדינות</string>
+
+    <string name="region_list_title">לחץ על אזור כדי לראות את המדינות המשויכות</string>
+    <string name="countries_list_title">לחץ על מדינה על מנת לראות פירוט אודותיה</string>
+    <string name="error_network">ארעה שגיאת תקשורת\nאנא נסה שנית מאוחר יותר</string>
+    <string name="region_screen_close">צא מהאפליקציה</string>
+    <string name="countries_list_url">https://www.restcountries.eu/rest/v2/all</string>
+    <string name="region_list_url">https://restcountries.eu/rest/v2/regionalbloc/</string>
+
+</resources>
